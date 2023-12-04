@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"I need to create a software that extracts data from an Excel sheet and then inputs it into PTC Windchill BOM.","md5":"4b06709661b31f2fd375942ecc34b7d0"}]}
